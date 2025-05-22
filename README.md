@@ -12,7 +12,7 @@
 - Ctrl + ホイールでフォントサイズ変更
 
 ## 🖼️ スクリーンショット
-(screenshot.png)
+![screenshot](screenshot.png)
 
 ---
 
